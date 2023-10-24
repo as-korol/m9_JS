@@ -119,7 +119,6 @@ const personGenerator = {
     randomGender: function () {
 
         return this.randomIntNumber(1, 0) === 0 ? this.GENDER_MALE : this.GENDER_FEMALE;
-        console.log(this.randomIntNumber);
     },
 
     randomAge: function () {
