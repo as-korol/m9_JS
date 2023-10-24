@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 20px;
+    font-family: "Bitter", sans-serif;
+}
+
+.card {
+    text-align: left;
+}
+
+.m-0 {
+    text-align: center;
+}
